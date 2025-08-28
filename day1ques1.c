@@ -2,8 +2,7 @@
 
 int main() {
     int n1, n2, sum;
-    
-    printf("Enter two numbers: ");
+  
     scanf("%d %d", &n1, &n2);
     
     sum = n1 + n2;
@@ -11,4 +10,5 @@ int main() {
     printf("Sum = %d\n", sum);
     
     return 0;
+
 }
